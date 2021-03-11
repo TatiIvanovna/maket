@@ -1,0 +1,58 @@
+/* Tanya Tkach block start */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+.logo-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ header .menu {
+    list-style: none;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 4px;
+}
+.logo-header {
+    color: white;
+    font-size: 30px;
+}
+.menu {
+   color: rgb(216, 188, 30);
+   font-size: 20px;
+}
+h1 {
+     color: yellow;
+      font-size: 160px;
+      font-family:Dancing Script ;
+      text-align: center;
+}
+.text-header {
+    color: yellow;
+    font-size: 30px;
+     text-align: center;
+    position: relative;
+    bottom: 90px;
+
+}
+.logo-main {
+   font-size: 65px; 
+  
+}
+header {
+   background-image:url(../img/chernivtsi.jpg);
+   background-position: center;
+   background-size: cover;
+   min-width: 400px;
+}
+.white-color {
+    background-color: white;
+
+}
+.banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+/* Tanya Tkach end block */
